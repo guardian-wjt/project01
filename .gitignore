@@ -4,3 +4,4 @@
 target
 .git
 src/test/
+src/main/resources/
